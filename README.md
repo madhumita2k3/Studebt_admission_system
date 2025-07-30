@@ -1,1 +1,1 @@
-# Studebt_admission_system
+# Student_admission_system
